@@ -11,10 +11,10 @@ tagline: ''
 
 menu:
 - {name: 'About', url: ''}
-- {name: 'Projects', url: 'projects.html'}
-- {name: 'Publications', url: 'publications.html'}
+- {name: 'Projects', url: 'projects.md'}
+- {name: 'Publications', url: 'publications.md'}
 - {name: 'Blog', url: 'blog'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Contact', url: 'contact.md'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
