@@ -8,10 +8,10 @@ google-ID: ''
 
 menu:
 - {name: 'About', url: ''}
-- {name: 'Projects', url: 'projects.md'}
-- {name: 'Publications', url: 'publications.md'}
+- {name: 'Projects', url: 'projects.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Blog', url: 'blog'}
-- {name: 'Contact', url: 'contact.md'}
+- {name: 'Contact', url: 'contact.html'}
 
 main-projects:
 - {name: 'Egocentric Space Representation', image: '', file: 'projects/space.html', blurb: ''}
