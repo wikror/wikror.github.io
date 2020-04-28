@@ -1,0 +1,27 @@
+title: 'wiktor rorot'
+tagline: ''
+
+author:
+  name: 'Wiktor Rorot'
+
+google-ID: ''
+
+menu:
+- {name: 'About', url: ''}
+- {name: 'Projects', url: 'projects.html'}
+- {name: 'Blog', url: 'blog'}
+- {name: 'Contact', url: 'contact.html'}
+
+main-projects:
+- {name: 'Egocentric Space Representation', image: '', file: 'projects/space.html', blurb: ''}
+
+
+#side-projects:
+#- {name: '', image: '', file: '', blurb: ''}
+
+social:
+- {icon: 'github', link: 'https://github.com/wikror'}
+- {icon: 'twitter', link: 'https://twitter.com/WiktorRorot'}
+#- {icon: 'linkedin', link: 'https://linkedin.com/in/wikror'}
+#- {icon: 'researchgate', link: ''}
+#- {icon: 'email', link: 'emailto:wiktor.rorot@student.uw.edu.pl'}

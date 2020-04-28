@@ -1,0 +1,16 @@
+.social-media a {
+  color: black;
+  margin-right: 10px;
+}
+
+.project-container p {
+  color: black;
+}
+
+.blog-container p {
+  color: black;
+}
+
+.post img {
+  margin: 0 auto 1rem;
+}
