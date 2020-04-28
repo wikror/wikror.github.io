@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<div class="publist">
+<div>
   <ul>
     {% for post in site.categories.publication %}
       {% if post.work-type == 'paper' %}

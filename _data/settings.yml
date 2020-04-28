@@ -1,10 +1,13 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
 title: '🐙'
 tagline: ''
-
-author:
-  name: 'Wiktor Rorot'
-
-google-ID: ''
 
 menu:
 - {name: 'About', url: ''}
@@ -13,16 +16,22 @@ menu:
 - {name: 'Blog', url: 'blog'}
 - {name: 'Contact', url: 'contact.html'}
 
-main-projects:
-- {name: 'Egocentric Space Representation', image: '', file: 'projects/space.html', blurb: ''}
-
-
-#side-projects:
-#- {name: '', image: '', file: '', blurb: ''}
-
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/wikror'}
 - {icon: 'twitter', link: 'https://twitter.com/WiktorRorot'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/wikror'}
 #- {icon: 'researchgate', link: ''}
-#- {icon: 'email', link: 'emailto:wiktor.rorot@student.uw.edu.pl'}
+- {icon: 'envelope', link: 'mailto:wiktor.rorot@student.uw.edu.pl'}
+
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'

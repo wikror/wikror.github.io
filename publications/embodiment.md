@@ -5,7 +5,7 @@ category: publication
 date: 2019-12-31
 
 # tags i made up to format this as a paper
-work-type: Paper
+work-type: paper
 ref-authors: Biernacka A, Rorot W, Statkiewicz R
 ref-year: 2019
 ref-title: Skąd ciało wiedziało? Czyli o badaniach nad ucieleśnieniem słów kilka [How did the body know? Introduction]
