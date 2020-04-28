@@ -5,16 +5,16 @@ disqus:
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ''
-
-title: '🐙'
-tagline: ''
+#
+# title: '🐙'
+# tagline: ''
 
 menu:
-- {name: 'About', url: ''}
-- {name: 'Projects', url: 'projects.md'}
-- {name: 'Publications', url: 'publications.md'}
+- {name: 'About', url: '/'}
+- {name: 'Projects', url: 'pages/projects.md'}
+- {name: 'Publications', url: 'pages/publications.md'}
 - {name: 'Blog', url: 'blog'}
-- {name: 'Contact', url: 'contact.md'}
+- {name: 'Contact', url: 'pages/contact.md'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
