@@ -10,11 +10,11 @@ google-ID: ''
 # tagline: ''
 
 menu:
-- {name: 'About', url: '/'}
-- {name: 'Projects', url: 'pages/projects.md'}
-- {name: 'Publications', url: 'pages/publications.md'}
-- {name: 'Blog', url: 'blog'}
-- {name: 'Contact', url: 'pages/contact.md'}
+- {name: 'About', file: 'index.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
+- {name: 'Publications', folder: 'pages', file: 'publications.html'}
+# - {name: 'Blog', url: 'blog'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
