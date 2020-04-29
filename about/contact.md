@@ -3,7 +3,7 @@ layout: misc
 title: Contact
 ---
 <section>
-  <h1>Contact</h1>
+  <!-- <h1>Contact</h1> -->
   <p>Feel free to contact me <a href="mailto:wiktor.rorot@student.uw.edu.pl" target="_blank">through my email</a> or <a href="https://twitter.com/intent/tweet?text=%40WiktorRorot" target="_blank">tweet at me</a>.</p>
   <!-- <img src="/assets/img/profile.jpg" alt="This is me"> -->
   <p>You can also follow me.</p>

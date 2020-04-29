@@ -1,7 +1,11 @@
 # Site Build Settings
+title: '🐙'
+author: 'Wiktor Rorot'
+description: 'A personal website'
 
 # jekyll-paginate configuration
 paginate:            5
+paginate_path: "/blog/page:num/"
 
 # Build settings
 markdown:            kramdown
@@ -9,13 +13,27 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
+gems:
+  - 'jekyll/scholar'
+  - 'jekyll-sitemap' # add /sitemap.xml file
+
 sass:
   sass_dir: assets/css
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: '🐙'
-author:              "Wiktor Rorot"
+
+
+scholar:
+  style: _includes/structured-refs-web.csl
+  locale: en
+
+  # bibliography: publications.bib
+  bibliography_template: "{{reference}}"
+
+  details_dir:    publications
+  details_layout: bib_details.html
+  details_link:   Details
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

@@ -10,18 +10,24 @@ google-ID: ''
 # tagline: ''
 
 menu:
-- {name: 'About', file: 'index.html'}
-- {name: 'Projects', folder: 'pages', file: 'projects.html'}
-- {name: 'Publications', folder: 'pages', file: 'publications.html'}
+- {name: 'About', folder: 'about'}
+- {name: 'Projects', folder: 'projects', file: 'index.html'}
+- {name: 'Publications', folder: 'publications', file: 'index.html'}
+- {name: 'Blog', folder: 'blog'}
 # - {name: 'Blog', url: 'blog'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+# - {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+main-projects:
+  - {name: 'Egocentric Space Representation', url: 'projects/ongoing/space.html'}
+
+future-projects:
+  - {name: 'Biological and cognitive individuality', url: ''}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/wikror'}
 - {icon: 'twitter', link: 'https://twitter.com/WiktorRorot'}
-#- {icon: 'linkedin', link: 'https://linkedin.com/in/wikror'}
-#- {icon: 'researchgate', link: ''}
+- {icon: 'researchgate', link: ''}
 - {icon: 'envelope', link: 'mailto:wiktor.rorot@student.uw.edu.pl'}
 
 
