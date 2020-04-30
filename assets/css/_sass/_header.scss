@@ -67,6 +67,7 @@
   }
   .dropdown {
       position: relative;
+      float: right;
       display: inline-block;
   }
   .dropdown-content {
@@ -88,6 +89,8 @@
   }
   .dropdown:hover .dropdown-content {
       display: block;
+      right: 0;
+      left: auto;
   }
   .dropdown:hover .dropbtn {
       background-color: #f1f1f1;
