@@ -363,6 +363,7 @@ th, td {
     cursor: pointer; }
   .dropdown {
     position: relative;
+    float: right;
     display: inline-block; }
   .dropdown-content {
     display: none;
@@ -379,7 +380,9 @@ th, td {
   .dropdown-content a:hover {
     background-color: #f1f1f1; }
   .dropdown:hover .dropdown-content {
-    display: block; }
+    display: block;
+    right: 0;
+    left: auto; }
   .dropdown:hover .dropbtn {
     background-color: #f1f1f1; } }
 
