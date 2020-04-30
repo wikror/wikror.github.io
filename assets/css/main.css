@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; }
 
 h1 {
-  font-size: 2.5rem; }
+  font-size: 2rem; }
 
 h2 {
   margin-top: 1rem;
@@ -37,9 +37,7 @@ h4, h5, h6 {
 
 /* Body */
 body {
-  font-family: "Proza Libre", sans-serif;
-  line-height: 1.5;
-  font-size: 1.25rem; }
+  font-family: "Proza Libre", sans-serif; }
 
 body img {
   align: middle;
@@ -48,6 +46,7 @@ body img {
   max-width: 600px; }
 
 p {
+  text-align: justify;
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
