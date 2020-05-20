@@ -21,13 +21,14 @@ main-projects:
   - {name: 'Egocentric Space Representation', url: 'projects/ongoing/space.html'}
 
 future-projects:
-  - {name: 'Biological and cognitive individuality', url: ''}
+  - {name: 'Biological and cognitive individuality', url: 'projects/future/individuality.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/wikror'}
 - {icon: 'twitter', link: 'https://twitter.com/WiktorRorot'}
-- {icon: 'researchgate', link: ''}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ZFvhdFkAAAAJ'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Wiktor_Rorot'}
 - {icon: 'envelope', link: 'mailto:wiktor.rorot@student.uw.edu.pl'}
 
 
