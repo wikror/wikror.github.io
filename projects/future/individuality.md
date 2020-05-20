@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Egocentric Space Representation'
+title: 'Individuality in Biology and Cognitive Sciences'
 ---
 
 The goal of the project is to investigate the notion of biological individuality at the intersection of philosophy of biology and philosophy of mind and of cognitive science. Individuality poses currently a significant problem for contemporary theories of life, and there are many attempts to provide a definition for this concept. These attempts have, however, certain limitations – most notably they are usually developed as purely theoretical and do not encompass all disciplines of life sciences.

@@ -21,7 +21,7 @@ main-projects:
   - {name: 'Egocentric Space Representation', url: 'projects/ongoing/space.html'}
 
 future-projects:
-  - {name: 'Biological and cognitive individuality', url: 'projects/future/individuality.html'}
+  - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/future/individuality.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
