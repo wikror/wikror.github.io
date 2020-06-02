@@ -5,6 +5,7 @@
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
+  font-size: 21px
   margin: 0;
   padding: 0;
 }
@@ -15,26 +16,26 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .5em;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.25em;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  margin-top: 1em;
+  font-size: 1.75em;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.5em;
+  font-size: 1.5em;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
-  font-size: 1rem;
+  margin-top: 1em;
+  font-size: 1em;
 }
 
 /* Body */
@@ -49,7 +50,7 @@ body img {
 }
 
 p {
-  text-align: justify;
+  text-align: left;
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -61,27 +62,27 @@ p {
 
 /* Lists */
 ul, ol, dl {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  margin-left: 1.5rem;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
   font-family: $body-font-family;
 }
 
 ol li {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  margin-left: 1.5rem;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
 }
 
 li {
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
 }
 
 dt {
   font-weight: bold;
 }
 dd {
-  margin-bottom: .5rem;
+  margin-bottom: .5em;
 }
 
 /*
@@ -121,3 +122,10 @@ blockquote {
      padding: 15px;
      text-align: left;
  }
+
+ /**
+  * Abbreviations
+  */
+  abbr {
+      letter-spacing: 0.1em
+  }

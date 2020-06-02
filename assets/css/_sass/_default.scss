@@ -11,7 +11,7 @@
   text-decoration: underline;
 }
 .posts-wrapper {
-  padding-top: $header-thickness+0.2rem;
+  padding-top: $header-thickness+0.2em;
   margin: auto;
   display: block;
   width: $container-width - 20px;
@@ -26,7 +26,7 @@
     margin-right: auto;
   }
   .posts-wrapper {
-    padding-top: $header-thickness+0.2rem;
+    padding-top: $header-thickness+0.2em;
     margin: auto;
     display: block;
     width: 95vw;

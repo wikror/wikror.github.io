@@ -8,9 +8,9 @@
 }
 .post-date {
   display: block;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
   color: #9a9a9a;
-  font-size:0.8rem;
+  font-size:0.8em;
   // text-transform: uppercase;
 }
 .featured-image img {
@@ -52,7 +52,7 @@
   }
 }
 .post-share {
-  padding-bottom: 1rem;
+  padding-bottom: 1em;
 }
 .sharing-icons a {
   padding-right: 10px;
@@ -63,7 +63,7 @@
 */
 
 .related {
-  padding-bottom: 1rem;
+  padding-bottom: 1em;
 }
 .related ul, ol, dl {
   margin: 0px;
@@ -91,7 +91,7 @@
 }
 .related-title {
   float: right;
-  padding-bottom: .5rem;
+  padding-bottom: .5em;
   font-family: $base-font-family;
 }
 @media (max-width: $container-width) {
