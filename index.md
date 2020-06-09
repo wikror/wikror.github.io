@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: Wiktor Rorot
-image: pic.jpg
+image: profile-pic.jpg
 ---
 
 <!-- # Wiktor Rorot -->
