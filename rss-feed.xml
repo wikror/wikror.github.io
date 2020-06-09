@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Explaining 'spatial purport of perception': a predictive processing approach</title>
+				
+				
+					<description>&lt;p&gt;Last week my first paper (!) finally came out in Synthese, you can read it &lt;a href=&quot;https://dx.doi.org/10.1007/s11229-020-02678-0&quot;&gt;here&lt;/a&gt;. The paper synthesizes the initial theoretical research of my project on &lt;a href=&quot;wiktor.rorot.pl/projects/individuality.html&quot;&gt;space perception&lt;/a&gt;, focusing on phenomenological aspects that Rick Grush termed “spatial purport” of perceptual experience (&lt;a href=&quot;https://doi.org/10.1007/s11229-007-9236-z&quot;&gt;Grush 2007&lt;/a&gt;).&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
+				<link>wiktor.rorot.pl/blog/Explaining-spatial-purport.html</link>
+				<guid isPermaLink="true">wiktor.rorot.pl/blog/Explaining-spatial-purport.html</guid>
+			</item>
+		
+			<item>
 				<title>Test</title>
 				
 				
@@ -16,8 +28,8 @@ When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
 </description>
 				
 				<pubDate>Tue, 28 Apr 2020 00:00:00 +0200</pubDate>
-				<link>/blog/test.html</link>
-				<guid isPermaLink="true">/blog/test.html</guid>
+				<link>wiktor.rorot.pl/blog/test.html</link>
+				<guid isPermaLink="true">wiktor.rorot.pl/blog/test.html</guid>
 			</item>
 		
 	</channel>
