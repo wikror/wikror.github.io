@@ -1,22 +1,30 @@
 .profile {
   padding-top: $header-thickness;
   width: $container-width;
-  display: block;
-  column-count: 2;
+  display: table;
+  // column-count: 2;
 }
 .profile-name {
+  width: 50%;
   margin-bottom: .5em;
   font-weight: bold;
   font-size: 2.25em;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
+  display: table-cell;
+  vertical-align: bottom;
+  // text-align: center;
 }
 .profile-image {
-  // align: middle;
+  // text-align: center;
+  width: 50%;
   margin: 5px auto 25px;
-  display: block;
+  display: table-cell;
   column-span: 1;
-  // max-width: 600px;
+  max-width: auto;
+  max-height: auto;
+  // align: center;
+  // max-width: 100%;
 }
 .profile-desc {
   width: $container-width;
