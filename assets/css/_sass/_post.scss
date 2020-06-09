@@ -1,16 +1,19 @@
 .page-content {
-  width: 600px;
+  width: $container-width;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+  // column-count: 2;
+  // column-gap: 1em;
 }
 .post-date {
   display: block;
   margin-bottom: 1em;
   color: #9a9a9a;
   font-size:0.8em;
+  column-span: all;
   // text-transform: uppercase;
 }
 .featured-image img {

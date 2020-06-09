@@ -18,6 +18,8 @@ social:
 
 # jekyll-paginate-v2 configuration
 pagination:
+    sort_field: 'date'
+    sort_reverse: true
     enabled: true
     per_page: 5
     permalink: "/blog/page/:num/"

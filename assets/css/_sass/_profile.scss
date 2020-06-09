@@ -1,0 +1,28 @@
+.profile {
+  padding-top: $header-thickness;
+  width: $container-width;
+  display: block;
+  column-count: 2;
+}
+.profile-name {
+  margin-bottom: .5em;
+  font-weight: bold;
+  font-size: 2.25em;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+}
+.profile-image {
+  // align: middle;
+  margin: 5px auto 25px;
+  display: block;
+  column-span: 1;
+  // max-width: 600px;
+}
+.profile-desc {
+  width: $container-width;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

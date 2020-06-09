@@ -10,18 +10,18 @@ google-ID: ''
 # tagline: ''
 
 menu:
-- {name: 'About', folder: 'about'}
-- {name: 'Projects', folder: 'projects', file: 'index.html'}
-- {name: 'Publications', folder: 'publications', file: 'index.html'}
-- {name: 'Blog', folder: 'blog'}
+- {name: 'About', url: ''}
+- {name: 'Projects', url: 'projects/index.html'}
+- {name: 'Publications', url: 'publications/index.html'}
+- {name: 'Blog', url: 'blog'}
 # - {name: 'Blog', url: 'blog'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 main-projects:
-  - {name: 'Egocentric Space Representation', url: 'projects/ongoing/space.html'}
+  - {name: 'Egocentric Space Representation', url: 'projects/space.html'}
 
 future-projects:
-  - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/future/individuality.html'}
+  - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/individuality.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

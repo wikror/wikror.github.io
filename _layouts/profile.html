@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="profile">
+  {% if page.image %}
+    <div class="profile-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+    </div>
+  {% endif %}
+  <div class="profile-name">
+    {{ page.title }}
+  </div>
+</div>
+
+<div class="profile-desc">
+  {{ content }}
+</div>
