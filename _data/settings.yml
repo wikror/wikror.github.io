@@ -19,6 +19,7 @@ menu:
 
 main-projects:
   - {name: 'Egocentric Space Representation', url: 'projects/space.html'}
+  - {name: 'Scale-Free Communication?', url: 'projects/communication.html'}
 
 future-projects:
   - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/individuality.html'}
