@@ -223,7 +223,7 @@ abbr {
   display: table-cell;
   column-span: 1;
   max-width: auto;
-  max-height: auto; }
+  max-height: 250px; }
 
 .profile-desc {
   width: 800px;
