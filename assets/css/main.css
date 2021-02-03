@@ -207,6 +207,48 @@ abbr {
   width: 800px;
   display: table; }
 
+.profile-desc {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
+@media (max-width: 800px) {
+  .profile {
+    padding-top: 2em;
+    width: 60vw;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+  .profile-desc {
+    width: 60vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px; } }
+
+@media (max-width: 600px) {
+  .profile {
+    padding-top: 2em;
+    width: 95vw;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px; }
+  .profile-desc {
+    width: 95vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px; } }
+
 .profile-name {
   width: 50%;
   margin-bottom: .5em;
@@ -228,14 +270,6 @@ abbr {
 .profile-pic {
   max-height: 300px;
   width: auto; }
-
-.profile-desc {
-  width: 800px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px; }
 
 .page-title {
   padding: 0px 10px 10px; }
