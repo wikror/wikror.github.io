@@ -26,6 +26,10 @@
   // align: center;
   // max-width: 100%;
 }
+.profile-pic {
+  max-height: 300px;
+  width: auto;
+}
 .profile-desc {
   width: $container-width;
   display: block;

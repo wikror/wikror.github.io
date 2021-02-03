@@ -10,7 +10,7 @@ I am an aspiring philosopher, currently studying at the University of Warsaw. Th
 
 I also have a blog here, but I don't suspect I will be using it often. -->
 
-I'm a PhD student at the Interdisciplinary Doctoral School, University of Warsaw. I'm working at the [Human Interactivity and Language Lab](https://hill.psych.uw.edu.pl){:target="_blank"} with my supervisor, prof. [Joanna Rączaszek-Leonardi](https://www.researchgate.net/profile/Joanna_Rczaszek-Leonardi2){:target="_blank"}.
+I'm a PhD student at the Interdisciplinary Doctoral School, University of Warsaw. I'm working at the [Human Interactivity and Language Lab](https://hill.psych.uw.edu.pl){:target="_blank"} with my supervisor, prof. [Joanna Rączaszek-Leonardi](https://www.researchgate.net/profile/Joanna_Rczaszek-Leonardi2){:target="_blank"}. My second supervisor is prof. [Marcin Miłkowski](https://www.researchgate.net/profile/Marcin_Mitkowski){:target="_blank"} from the Institute of Philosophy and Sociology of the Polish Academy of Sciences.
 
 I'm interested predominantly in mind & cognition from the 4E perspective, with a special focus on the predictive processing (aka active inference, aka free energy principle) framework and on the issue of emergence and evolution of life and mind. My AOIs include philosophy of cognitive science, philosophy of biology, philosophy of science in general, consciousness studies, dynamical systems theory, information theory.
 
