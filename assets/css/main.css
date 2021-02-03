@@ -219,11 +219,12 @@ abbr {
 
 .profile-image {
   width: 50%;
+  height: 100px;
   margin: 5px auto 25px;
   display: table-cell;
   column-span: 1;
   max-width: auto;
-  max-height: 250px; }
+  max-height: auto; }
 
 .profile-desc {
   width: 800px;
