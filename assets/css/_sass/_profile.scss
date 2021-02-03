@@ -4,6 +4,54 @@
   display: table;
   // column-count: 2;
 }
+.profile-desc {
+  width: $container-width;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (max-width: $container-width) {
+    .profile {
+      padding-top: $header-thickness;
+      width: 60vw;
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      // column-count: 2;
+    }
+    .profile-desc {
+      width: 60vw;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+}
+@media (max-width: $tablet-width) {
+    .profile {
+      padding-top: $header-thickness;
+      width: 95vw;
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      // column-count: 2;
+    }
+    .profile-desc {
+      width: 95vw;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+}
 .profile-name {
   width: 50%;
   margin-bottom: .5em;
@@ -29,12 +77,4 @@
 .profile-pic {
   max-height: 300px;
   width: auto;
-}
-.profile-desc {
-  width: $container-width;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
