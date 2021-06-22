@@ -4,13 +4,28 @@
  <title>🐙</title>
  <link href="wiktor.rorot.pl/atom.xml" rel="self"/>
  <link href="wiktor.rorot.pl/"/>
- <updated>2021-06-15T16:42:14+02:00</updated>
+ <updated>2021-06-22T20:41:35+02:00</updated>
  <id>wiktor.rorot.pl</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>CogSci 2021 - additional materials</title>
+   <link href="wiktor.rorot.pl/blog/CogSci2021.html"/>
+   <updated>2021-06-22T00:00:00+02:00</updated>
+   <id>wiktor.rorot.pl/blog/CogSci2021</id>
+   <content type="html">&lt;p&gt;Here you can find link to updated version of the poster:&lt;/p&gt;
+
+&lt;p&gt;[link]&lt;/p&gt;
+
+&lt;p&gt;and some additional results:&lt;/p&gt;
+
+&lt;p&gt;[link]&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>SPP 2021 - additional materials</title>
