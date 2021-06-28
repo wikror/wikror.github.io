@@ -30,7 +30,11 @@
 				
 					<description>&lt;p&gt;Here you can find link to the poster:&lt;/p&gt;
 
-&lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; width=&quot;1000px&quot; height=&quot;100%&quot; /&gt;
+&lt;object data=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
+    &lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; target=&quot;_blank&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 
