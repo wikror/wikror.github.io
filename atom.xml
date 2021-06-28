@@ -4,7 +4,7 @@
  <title>🐙</title>
  <link href="wiktor.rorot.pl/atom.xml" rel="self"/>
  <link href="wiktor.rorot.pl/"/>
- <updated>2021-06-28T12:10:36+02:00</updated>
+ <updated>2021-06-28T12:13:20+02:00</updated>
  <id>wiktor.rorot.pl</id>
  <author>
    <name></name>
@@ -34,7 +34,9 @@
    <id>wiktor.rorot.pl/blog/SPP-2021</id>
    <content type="html">&lt;p&gt;Here you can find link to the poster:&lt;/p&gt;
 
-&lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; width=&quot;600px&quot; /&gt;
+&lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; width=&quot;1000px&quot; height=&quot;100%&quot; /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Readable size references:&lt;/p&gt;
 
