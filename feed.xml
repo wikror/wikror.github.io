@@ -1,10 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="wiktor.rorot.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="wiktor.rorot.pl/" rel="alternate" type="text/html" /><updated>2021-06-28T12:24:58+02:00</updated><id>wiktor.rorot.pl/feed.xml</id><title type="html">🐙</title><subtitle>A personal website</subtitle><author><name>Wiktor Rorot</name></author><entry><title type="html">CogSci 2021 - additional materials</title><link href="wiktor.rorot.pl/blog/CogSci2021.html" rel="alternate" type="text/html" title="CogSci 2021 - additional materials" /><published>2021-06-22T00:00:00+02:00</published><updated>2021-06-22T00:00:00+02:00</updated><id>wiktor.rorot.pl/blog/CogSci2021</id><content type="html" xml:base="wiktor.rorot.pl/blog/CogSci2021.html">&lt;p&gt;Here you can find link to updated version of the poster:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="wiktor.rorot.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="wiktor.rorot.pl/" rel="alternate" type="text/html" /><updated>2021-07-28T18:31:44+02:00</updated><id>wiktor.rorot.pl/feed.xml</id><title type="html">🐙</title><subtitle>A personal website</subtitle><author><name>Wiktor Rorot</name></author><entry><title type="html">CogSci 2021 - additional materials</title><link href="wiktor.rorot.pl/blog/CogSci2021.html" rel="alternate" type="text/html" title="CogSci 2021 - additional materials" /><published>2021-06-22T00:00:00+02:00</published><updated>2021-06-22T00:00:00+02:00</updated><id>wiktor.rorot.pl/blog/CogSci2021</id><content type="html" xml:base="wiktor.rorot.pl/blog/CogSci2021.html">&lt;p&gt;Here you can find link to the poster:&lt;/p&gt;
 
-&lt;p&gt;[link]&lt;/p&gt;
+&lt;object data=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport-cogsci.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
+    &lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport-cogsci.pdf&quot; type=&quot;application/pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport-cogsci.pdf&quot; target=&quot;_blank&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
 
-&lt;p&gt;and some additional results:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport-cogsci.pdf&quot; target=&quot;_blank&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[link]&lt;/p&gt;</content><author><name>Wiktor Rorot</name></author><category term="blog" /><summary type="html">Here you can find link to updated version of the poster: [link] and some additional results: [link]</summary></entry><entry><title type="html">SPP 2021 - additional materials</title><link href="wiktor.rorot.pl/blog/SPP-2021.html" rel="alternate" type="text/html" title="SPP 2021 - additional materials" /><published>2021-06-15T00:00:00+02:00</published><updated>2021-06-15T00:00:00+02:00</updated><id>wiktor.rorot.pl/blog/SPP-2021</id><content type="html" xml:base="wiktor.rorot.pl/blog/SPP-2021.html">&lt;p&gt;Here you can find link to the poster:&lt;/p&gt;
+&lt;p&gt;Work on this project has been funded by the Ministry of Science and Higher Education (Poland) research Grant DI2018 010448 as part of “Diamentowy Grant” program.&lt;/p&gt;
+
+&lt;p&gt;Readable size references:&lt;/p&gt;
+
+&lt;p&gt;Filimon, F. (2015). Are All Spatial Reference Frames Egocentric? https://doi.org/10.3389/fnhum.2015.00648&lt;/p&gt;
+
+&lt;p&gt;Grush, R. (2004). The emulation theory of representation.&lt;/p&gt;
+
+&lt;p&gt;Grush, R. (2007). Skill theory v2.0. https://doi.org/10.1007/s11229-007-9236-z&lt;/p&gt;
+
+&lt;p&gt;Hohwy, J. (2020). New directions in predictive processing. https://doi.org/10.1111/mila.12281&lt;/p&gt;
+
+&lt;p&gt;Laflaquière, A., &amp;amp; Garcia Ortiz, M. (2019). Unsupervised emergence of egocentric spatial structure from sensorimotor prediction.
+https://arxiv.org/abs/1906.01401&lt;/p&gt;
+
+&lt;p&gt;Moser, E. I., Kropff, E., &amp;amp; Moser, M.-B. (2008). Place Cells, Grid Cells, and the Brain’s Spatial Representation System. https://doi.org/10.1146/annurev.neuro.31.061307.090723&lt;/p&gt;
+
+&lt;p&gt;Pouget, A., Deneve, S., &amp;amp; Duhamel, J.-R. (2002). A computational perspective on the neural basis of multisensory spatial representations. https://doi.org/10.1038/nrn914&lt;/p&gt;
+
+&lt;p&gt;Rorot, W. (2020). Explaining “spatial purport of perception”. https://doi.org/10.1007/s11229-020-02678-0&lt;/p&gt;
+
+&lt;p&gt;Wydmuch, M., Kempka, M., &amp;amp; Jaśkowski, W. (2018). ViZDoom competitions: Playing doom from pixels. https://arxiv.org/abs/1809.03470&lt;/p&gt;</content><author><name>Wiktor Rorot</name></author><category term="blog" /><summary type="html">Here you can find link to the poster: This browser does not support PDFs. Please download the PDF to view it: Download PDF. &amp;lt;/embed&amp;gt; PDF Work on this project has been funded by the Ministry of Science and Higher Education (Poland) research Grant DI2018 010448 as part of “Diamentowy Grant” program. Readable size references: Filimon, F. (2015). Are All Spatial Reference Frames Egocentric? https://doi.org/10.3389/fnhum.2015.00648 Grush, R. (2004). The emulation theory of representation. Grush, R. (2007). Skill theory v2.0. https://doi.org/10.1007/s11229-007-9236-z Hohwy, J. (2020). New directions in predictive processing. https://doi.org/10.1111/mila.12281 Laflaquière, A., &amp;amp; Garcia Ortiz, M. (2019). Unsupervised emergence of egocentric spatial structure from sensorimotor prediction. https://arxiv.org/abs/1906.01401 Moser, E. I., Kropff, E., &amp;amp; Moser, M.-B. (2008). Place Cells, Grid Cells, and the Brain’s Spatial Representation System. https://doi.org/10.1146/annurev.neuro.31.061307.090723 Pouget, A., Deneve, S., &amp;amp; Duhamel, J.-R. (2002). A computational perspective on the neural basis of multisensory spatial representations. https://doi.org/10.1038/nrn914 Rorot, W. (2020). Explaining “spatial purport of perception”. https://doi.org/10.1007/s11229-020-02678-0 Wydmuch, M., Kempka, M., &amp;amp; Jaśkowski, W. (2018). ViZDoom competitions: Playing doom from pixels. https://arxiv.org/abs/1809.03470</summary></entry><entry><title type="html">SPP 2021 - additional materials</title><link href="wiktor.rorot.pl/blog/SPP-2021.html" rel="alternate" type="text/html" title="SPP 2021 - additional materials" /><published>2021-06-15T00:00:00+02:00</published><updated>2021-06-15T00:00:00+02:00</updated><id>wiktor.rorot.pl/blog/SPP-2021</id><content type="html" xml:base="wiktor.rorot.pl/blog/SPP-2021.html">&lt;p&gt;Here you can find link to the poster:&lt;/p&gt;
 
 &lt;object data=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
     &lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-modeling-spatial-purport.pdf&quot; type=&quot;application/pdf&quot; /&gt;
