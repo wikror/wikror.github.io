@@ -2,7 +2,7 @@
 layout: post
 title: "Explaining 'spatial purport of perception': a predictive processing approach"
 category: blog
-keywords: space perception, space cognition, predictive processing, active inference, Rick Grush
+keywords: paper, space perception, space cognition, predictive processing, active inference, Rick Grush
 date: 2020-06-09
 ---
 
