@@ -94,3 +94,8 @@ $orcid-color: green;
   padding: 5px;
   @include social-media-icon($orcid-color, $icon-transition-time);
 }
+
+.fa-mastodon{
+  padding: 5px;
+  @include social-media-icon($twitter-color, $icon-transition-time);
+}

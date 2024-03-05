@@ -13,7 +13,7 @@ title: Projects
     {% endfor %}
   </div>
 </section>
-<section>
+<!-- <section>
  <h2>Ideas for the future</h2>
   <div class="project-container">
     {% for project in site.data.settings.future-projects %}
@@ -23,7 +23,7 @@ title: Projects
       </a>
     {% endfor %}
   </div>
-</section>
+</section> -->
 <!--
 <section>
   <h1>Side Projects</h1>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Handling citations in research papers with minimum dread"
+title: "My writing setup"
 category: blog
-keywords: Visual Studio Code, Markdown, pandoc, Zotero, article writing, research, Latex
+keywords: Visual Studio Code, Markdown, pandoc, Zotero, article writing, research, Latex, bibliography, bibliography manager, scientific paper, citation, reference list
 date: 2023-02-08
 ---
 
@@ -32,3 +32,5 @@ The setup so far works for single authored papers. For sharing with others I use
 # Overleaf
 Given that journals' LaTeX templates tend to require a very specific setup of LaTeX environment and getting them to compile locally is a pain, I have given up on maintaining a local installation and opted for [Overleaf](https://www.overleaf.com/), which works perfectly well out of the box for most purposes. Then I will potentially download the final TeX file to process it with JabRef, as indicated [above](#reference-database).
 
+# stackedit.io
+For collaboration directly on a markdown file, I have been using the online editor stackedit.io, which allows connecting it to Google Drive, where the file is hosted, and has some basic conflict resolution implemented (though I worked in turns and did not test it thoroughly, so no guarantees). Probably Notion can be used as well for this purpose. Both have the 
