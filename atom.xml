@@ -4,13 +4,38 @@
  <title>🐙</title>
  <link href="wiktor.rorot.pl/atom.xml" rel="self"/>
  <link href="wiktor.rorot.pl/"/>
- <updated>2024-03-05T15:55:35+01:00</updated>
+ <updated>2024-10-15T23:25:38+02:00</updated>
  <id>wiktor.rorot.pl</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Concepts & texts in the practice of life science. The case of signaling - poster & supplemental information</title>
+   <link href="wiktor.rorot.pl/blog/concepts-and-texts.html"/>
+   <updated>2024-10-15T00:00:00+02:00</updated>
+   <id>wiktor.rorot.pl/blog/concepts-and-texts</id>
+   <content type="html">&lt;p&gt;Here you can find the poster:&lt;/p&gt;
+
+&lt;object data=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
+    &lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota.pdf&quot; type=&quot;application/pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota.pdf.pdf&quot; target=&quot;_blank&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
+
+&lt;p&gt;And here you can find the supplemental information:&lt;/p&gt;
+
+&lt;object data=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota-suppl.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;750px&quot;&gt;
+    &lt;embed src=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota-suppl.pdf&quot; type=&quot;application/pdf&quot; /&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://wiktor.rorot.pl/files/rorot-signaling-poster-minnesota-suppl.pdf&quot; target=&quot;_blank&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &amp;lt;/embed&amp;gt;
+&lt;/object&gt;
+
+&lt;p&gt;As well as the link to raw results: &lt;a href=&quot;https://drive.google.com/drive/folders/1-GhuWpyBuoOzwBMRdfY4kPngo66xR7Az?usp=sharing&quot;&gt;Google Drive link&lt;/a&gt;. The code will be published at a later date.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>My writing setup</title>
@@ -21,7 +46,7 @@
 
 &lt;p&gt;In general the process looks like this: I’m writing papers and notes in Markdown using VSCode (previously Atom, before GitHub pulled the plug on the project) with some plugins as my go-to editor, handling citations through Zotero with some plugins, and use pandoc to export to more readable formats and generate citations and sometimes do final tweaks on Overleaf. I’ll go through each step below. The notes should be sufficiently detailed as I intend to use this post also as a reference sheet for my future self!&lt;/p&gt;
 
-&lt;h1 id=&quot;reference-database&quot;&gt;Reference database&lt;/h1&gt;
+&lt;h2 id=&quot;reference-database&quot;&gt;Reference database&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt; is probably not &lt;em&gt;that much&lt;/em&gt; better from alternatives like Mendeley, for me the selling point was that it’s free, open source, not Elsevier-owned and much more intuitive than Mendeley with which I played for a while and just couldn’t make sense of.&lt;/p&gt;
 
 &lt;p&gt;Input of citations is a blast, you can import papers by their DOI, books by their ISBN, arxiv preprints with their IDs and it works hassle-free in like 90% of cases. If you need to add something manually it’s also quite easy, and for book chapters I just add the book through ISBN and then change its type to Book Section and add missing data, like chapter title and authors.&lt;/p&gt;
@@ -30,19 +55,19 @@
 
 &lt;p&gt;Importantly, I have a single, very large, and a bit private file for references, hence whenever I have to upload it to the journal or elsewhere, I use &lt;a href=&quot;https://docs.jabref.org/advanced/entryeditor/latex-citations&quot;&gt;JabRef&lt;/a&gt; to filter only cited entries into a separate library which then gets submitted.&lt;/p&gt;
 
-&lt;h1 id=&quot;first-drafts&quot;&gt;First drafts&lt;/h1&gt;
+&lt;h2 id=&quot;first-drafts&quot;&gt;First drafts&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; is my go-to choice of a file format, as it is plain-text, future proof format, that makes me quite confident I will be able to access my notes and drafts in a few years time (provided I’ll find them, as organizing files is not my strong suite…). I use the Visual Studio Code for writing, with several extensions: &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one&quot;&gt;Markdown All in One&lt;/a&gt;, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount&quot;&gt;Word Count&lt;/a&gt; and, crucially, &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter&quot;&gt;Pandoc Citer&lt;/a&gt; for autocompletion of bibtex citation keys (remember to put path to the bibtex file in square brackets in extension settings!).&lt;/p&gt;
 
-&lt;h1 id=&quot;pandoc&quot;&gt;Pandoc&lt;/h1&gt;
+&lt;h2 id=&quot;pandoc&quot;&gt;Pandoc&lt;/h2&gt;
 &lt;p&gt;Whenever I have to share a version of the paper, I’ll process it in &lt;a href=&quot;https://pandoc.org/index.html&quot;&gt;Pandoc&lt;/a&gt; into a more accessible format, this is pretty straightforward and works out of the box.&lt;/p&gt;
 
-&lt;h1 id=&quot;google-docs&quot;&gt;Google Docs&lt;/h1&gt;
+&lt;h2 id=&quot;google-docs&quot;&gt;Google Docs&lt;/h2&gt;
 &lt;p&gt;The setup so far works for single authored papers. For sharing with others I use mainly Google Docs, which has all necessary tools for collaborative writing (version history, tracking changes, comments). Overleaf might be a way to go here as well, but requires paid subscription for tracking changes.&lt;/p&gt;
 
-&lt;h1 id=&quot;overleaf&quot;&gt;Overleaf&lt;/h1&gt;
+&lt;h2 id=&quot;overleaf&quot;&gt;Overleaf&lt;/h2&gt;
 &lt;p&gt;Given that journals’ LaTeX templates tend to require a very specific setup of LaTeX environment and getting them to compile locally is a pain, I have given up on maintaining a local installation and opted for &lt;a href=&quot;https://www.overleaf.com/&quot;&gt;Overleaf&lt;/a&gt;, which works perfectly well out of the box for most purposes. Then I will potentially download the final TeX file to process it with JabRef, as indicated &lt;a href=&quot;#reference-database&quot;&gt;above&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;stackeditio&quot;&gt;stackedit.io&lt;/h1&gt;
+&lt;h2 id=&quot;stackeditio&quot;&gt;stackedit.io&lt;/h2&gt;
 &lt;p&gt;For collaboration directly on a markdown file, I have been using the online editor stackedit.io, which allows connecting it to Google Drive, where the file is hosted, and has some basic conflict resolution implemented (though I worked in turns and did not test it thoroughly, so no guarantees). Probably Notion can be used as well for this purpose. Both have the&lt;/p&gt;
 </content>
  </entry>
