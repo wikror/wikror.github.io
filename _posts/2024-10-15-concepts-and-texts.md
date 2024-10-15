@@ -3,7 +3,7 @@ layout: post
 title: "Concepts & texts in the practice of life science. The case of signaling - poster & supplemental information"
 category: blog
 keywords: digital philosophy of science, topic modeling
-date: 2024-10-17
+date: 2024-10-15
 ---
 
 Here you can find the poster:
