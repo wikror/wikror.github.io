@@ -7,8 +7,8 @@
   --text-color: #1a1a1a;
   --text-secondary: #666666;
   --border-color: #e0e0e0;
-  --accent-color: #af1738;
-  --link-color: #af1738;
+  --accent-color: #{$brand-color};
+  --link-color: #{$brand-color};
   --link-hover-bg: #fff5f7;
   --shadow-color: rgba(175, 23, 56, 0.1);
   --code-bg: #f8f8f8;
@@ -35,8 +35,8 @@
     --text-color: #1a1a1a;
     --text-secondary: #666666;
     --border-color: #e0e0e0;
-    --accent-color: #af1738;
-    --link-color: #af1738;
+    --accent-color: #{$brand-color};
+    --link-color: #{$brand-color};
     --link-hover-bg: #fff5f7;
     --shadow-color: rgba(175, 23, 56, 0.1);
     --code-bg: #f8f8f8;
