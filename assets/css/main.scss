@@ -1,0 +1,22 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/*
+  Site variables
+*/
+
+// Modern system font stack with custom fonts as preference
+$base-font-family: 'Noto Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+$body-font-family: 'Crimson Text', Georgia, 'Times New Roman', serif;
+$code-font-family: "Bitstream Vera Sans Mono", 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+
+// LaTeX Maroon: CMYK(0, 0.87, 0.68, 0.32) = RGB(175, 23, 56)
+$brand-color: #af1738;
+
+$container-width: 800px;
+$tablet-width: 600px;
+$phone-width: 480px;
+$header-thickness: 2em;
+
+@import "_sass/-sections-dir";

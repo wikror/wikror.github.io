@@ -1,0 +1,67 @@
+code,
+pre {
+  font-family: $code-font-family
+}
+code {
+  padding: .25em .5em;
+  font-size: .85em;
+  background-color: var(--code-bg);
+  border-radius: 4px;
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+}
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1em;
+  padding: 1em;
+  font-size: .85em;
+  line-height: 1.5;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: var(--code-bg);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  overflow-x: auto;
+}
+pre code {
+  padding: 0;
+  font-size: 100%;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+/* Pygments via Jekyll */
+.highlight {
+  margin-bottom: 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px var(--shadow-color);
+}
+.highlight pre {
+  margin-bottom: 0;
+}
+
+/* Gist via GitHub Pages */
+.gist .gist-file {
+  font-family: $code-font-family !important;
+}
+.gist .markdown-body {
+  padding: 15px;
+}
+.gist pre {
+  padding: 0;
+  background-color: transparent;
+}
+.gist .gist-file .gist-data {
+  font-size: .8em !important;
+  line-height: 1.4;
+}
+.gist code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border-radius: 0;
+}

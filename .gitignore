@@ -1,6 +1,22 @@
+# Jekyll build files
 _site
-Gemfile.lock
 .sass-cache
 .jekyll-metadata
-.DS_Store
 .jekyll-cache
+
+# Dependency management
+Gemfile.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

@@ -1,0 +1,51 @@
+# Site Build Settings
+title: '🐙'
+author: 'Wiktor Rorot'
+description: 'A personal website'
+
+# Site URL and paths
+url: 'https://wiktor.rorot.pl'
+baseurl: ''
+
+# SEO and social
+logo: "assets/favicon.ico"
+
+social:
+    name: Wiktor Rorot
+    links:
+        - https://bsky.app/profile/wikror.bsky.social
+        - https://github.com/wikror
+        - https://scholar.social/@wikror
+
+# jekyll-paginate-v2 configuration
+pagination:
+    sort_field: 'date'
+    sort_reverse: true
+    enabled: true
+    per_page: 5
+    permalink: "/blog/page/:num/"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - PUBLICATIONS_GUIDE.md
+  - .gitignore
+  - .git/
+  - .jekyll-cache/
+
+sass:
+  sass_dir: assets/css
+  style: compressed  # Compress CSS for production
+
+# Feed settings (jekyll-feed plugin)
+feed:
+  path: feed.xml
