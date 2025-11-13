@@ -2,37 +2,66 @@
   CV page styling
 */
 
-.print-button {
-  background-color: var(--link-color);
-  color: white;
-  border: none;
-  padding: 0.75em 1.5em;
-  font-size: 1em;
-  font-weight: 300;
-  font-family: $base-font-family;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.2s ease;
+.cv-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
   margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 2px solid var(--link-color);
+  gap: 2em;
+}
+
+.cv-header {
+  flex: 1;
+}
+
+.cv-actions {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 0.25em;
+}
+
+.print-button {
+  font-size: 0.9em;
+  font-weight: 300;
+  color: var(--link-color);
+  background-color: transparent;
+  text-decoration: none;
+  padding: 0.3em 0.8em;
+  border: 1px solid var(--link-color);
+  border-radius: 4px;
+  transition: all 0.2s ease;
   display: inline-flex;
   align-items: center;
-  gap: 0.5em;
-  box-shadow: 0 2px 4px var(--shadow-color);
+  gap: 0.4em;
+  font-family: $base-font-family;
+  cursor: pointer;
+  white-space: nowrap;
 }
 
 .print-button:hover {
-  background-color: color-mix(in srgb, var(--link-color) 85%, black);
+  background-color: var(--link-color);
+  color: var(--bg-color);
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px var(--shadow-color);
-}
-
-.print-button:active {
-  transform: translateY(0);
-  box-shadow: 0 1px 2px var(--shadow-color);
+  box-shadow: 0 2px 8px var(--shadow-color);
+  border-bottom: 1px solid var(--link-color);
 }
 
 .print-button i {
-  font-size: 1.1em;
+  font-size: 1em;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 600px) {
+  .cv-header-container {
+    flex-direction: column;
+    gap: 1em;
+  }
+  
+  .cv-actions {
+    align-self: flex-start;
+  }
 }
 
 /* Hide print button when printing */
@@ -54,12 +83,10 @@
     color: inherit;
     text-decoration: none;
   }
-}
-
-.cv-header {
-  margin-bottom: 2em;
-  padding-bottom: 1em;
-  border-bottom: 2px solid var(--link-color);
+  
+  .cv-header-container {
+    border-bottom: 1px solid #000;
+  }
 }
 
 .cv-contact {

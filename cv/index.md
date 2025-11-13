@@ -3,16 +3,19 @@ title: Curriculum Vitae
 layout: page
 ---
 
-<button onclick="window.print()" class="print-button" aria-label="Print CV to PDF">
-  <i class="fa fa-print"></i> Print to PDF
-</button>
-
-<div class="cv-header">
-  <div class="cv-contact">
-    <strong>Wiktor Rorot</strong><br>
-    University of Warsaw<br>
-    <a href="mailto:wiktor.rorot.research@gmail.com">wiktor.rorot.research@gmail.com</a><br>
-    ORCID: <a href="https://orcid.org/0000-0003-1867-1091" target="_blank" rel="noopener">0000-0003-1867-1091</a>
+<div class="cv-header-container">
+  <div class="cv-header">
+    <div class="cv-contact">
+      <strong>Wiktor Rorot</strong><br>
+      University of Warsaw<br>
+      <a href="mailto:wiktor.rorot.research@gmail.com">wiktor.rorot.research@gmail.com</a><br>
+      ORCID: <a href="https://orcid.org/0000-0003-1867-1091" target="_blank" rel="noopener">0000-0003-1867-1091</a>
+    </div>
+  </div>
+  <div class="cv-actions">
+    <button onclick="window.print()" class="print-button" aria-label="Print CV to PDF">
+      <i class="fa fa-print"></i> PDF
+    </button>
   </div>
 </div>
 
