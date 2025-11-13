@@ -47,7 +47,7 @@ exclude:
   - .jekyll-cache/
 
 sass:
-  sass_dir: assets/css
+  sass_dir: _sass
   style: compressed  # Compress CSS for production
 
 # Feed settings (jekyll-feed plugin)
