@@ -7,9 +7,18 @@ title: Projects
   <div class="project-container">
     {% for project in site.data.settings.main-projects %}
       <a href="{{ site.github.url }}/{{ project.url }}">
-            <h3>{{ project.name }}</h3>
+            <h3>{{ project.name }}</h3></a>
             <p>{{ project.blurb }}</p>
-      </a>
+    {% endfor %}
+  </div>
+</section>
+<section>
+ <h2>Past projects</h2>
+  <div class="project-container">
+    {% for project in site.data.settings.past-projects %}
+      <a href="{{ site.github.url }}/{{ project.url }}">
+            <h3>{{ project.name }}</h3></a>
+            <p>{{ project.blurb }}</p>
     {% endfor %}
   </div>
 </section>

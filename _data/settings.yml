@@ -13,25 +13,26 @@ menu:
 - {name: 'About', url: ''}
 - {name: 'Projects', url: 'projects/index.html'}
 - {name: 'Publications', url: 'publications'}
+- {name: 'CV', url: 'cv'}
 - {name: 'Blog', url: 'blog'}
 # - {name: 'Blog', url: 'blog'}
 # - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 main-projects:
-  - {name: 'Egocentric Space Representation', url: 'projects/space.html'}
-  - {name: 'Scale-Free Communication?', url: 'projects/communication.html'}
-  - {name: 'Mind and Matter', url: 'projects/mind-matter.html'}
+  - {name: 'Scale-Free Communication?', url: 'projects/communication.html', blurb: 'A large-scale corpus study of the use of the concept "communication" across life and cognitive sciences.'}
+  - {name: 'Mind and Matter', url: 'projects/mind-matter.html', blurb: 'A philosophical investigation of the active biological matter that makes up all (known) cognitive systems.'}
 
 future-projects:
   # - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/individuality.html'}
 
 past-projects:
+  - {name: 'Egocentric Space Representation', url: 'projects/space.html', blurb: 'A computational model of spatial experience based on egocentric representations, embedded within the predictive processing framework.'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://github.com/wikror'}
 - {icon: 'mastodon', link: 'https://scholar.social/@wikror'}
-- {icon: 'twitter', link: 'https://twitter.com/WiktorRorot'}
+- {icon: 'dove', link: 'https://bsky.app/profile/wikror.bsky.social'}
 - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=ZFvhdFkAAAAJ'}
 - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Wiktor_Rorot'}
 - {icon: 'envelope', link: 'mailto:w.rorot@uw.edu.pl'}

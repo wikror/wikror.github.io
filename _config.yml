@@ -3,18 +3,19 @@ title: '🐙'
 author: 'Wiktor Rorot'
 description: 'A personal website'
 
-#seo
-url: 'wiktor.rorot.pl'
-twitter:
-    username: WiktorRorot
-    card: summary
+# Site URL and paths
+url: 'https://wiktor.rorot.pl'
+baseurl: ''
+
+# SEO and social
 logo: "assets/favicon.ico"
 
 social:
     name: Wiktor Rorot
     links:
-        - https://twitter.com/WiktorRorot
+        - https://bsky.app/profile/wikror.bsky.social
         - https://github.com/wikror
+        - https://scholar.social/@wikror
 
 # jekyll-paginate-v2 configuration
 pagination:
@@ -30,28 +31,21 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-gems:
-  - 'jekyll/scholar'
-  - 'jekyll-sitemap' # add /sitemap.xml file
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - PUBLICATIONS_GUIDE.md
+  - .gitignore
+  - .git/
+  - .jekyll-cache/
 
 sass:
   sass_dir: assets/css
-  style: :nested
+  style: compressed  # Compress CSS for production
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-
-scholar:
-  style: _includes/structured-refs-web.csl
-  locale: en
-
-  # bibliography: publications.bib
-  bibliography_template: "{{reference}}"
-
-  details_dir:    publications
-  details_layout: bib_details.html
-  details_link:   Details
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# Feed settings (jekyll-feed plugin)
+feed:
+  path: feed.xml
