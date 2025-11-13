@@ -3,6 +3,10 @@ title: Curriculum Vitae
 layout: page
 ---
 
+<button onclick="window.print()" class="print-button" aria-label="Print CV to PDF">
+  <i class="fa fa-print"></i> Print to PDF
+</button>
+
 <div class="cv-header">
   <div class="cv-contact">
     <strong>Wiktor Rorot</strong><br>
