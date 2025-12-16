@@ -3,8 +3,10 @@
   width: $container-width;
   display: table;
   margin-bottom: 2em;
-  // column-count: 2;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 .profile-desc {
   width: $container-width;
   display: block;
@@ -13,46 +15,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-@media (max-width: $container-width) {
-    .profile {
-      padding-top: $header-thickness;
-      width: 60vw;
-      display: table;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 10px;
-      margin-bottom: 2em;
-      // column-count: 2;
-    }
-    .profile-desc {
-      width: 60vw;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-}
-@media (max-width: $tablet-width) {
-    .profile {
-      padding-top: $header-thickness;
-      width: 95vw;
-      display: table;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 10px;
-      margin-bottom: 2em;
-      // column-count: 2;
-    }
-    .profile-desc {
-      width: 95vw;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-}
+
 .profile-name {
   width: 50%;
   margin-bottom: .5em;
@@ -64,18 +27,51 @@
   display: table-cell;
   vertical-align: bottom;
   color: var(--text-color);
-  // text-align: center;
 }
+
 .profile-image {
-  // text-align: center;
   width: 50%;
   margin: 5px auto 25px;
   display: table-cell;
-  column-span: 1;
-  max-width: auto;
-  max-height: auto;
-  // align: center;
-  // max-width: 100%;
+  text-align: right;
+}
+
+/* Tablet: narrower but keep side-by-side layout */
+@media (max-width: $container-width) {
+  .profile {
+    width: 90vw;
+  }
+  .profile-desc {
+    width: 90vw;
+  }
+}
+
+/* Mobile: stack vertically, image on top, smaller size */
+@media (max-width: $tablet-width) {
+  .profile {
+    width: 95vw;
+    display: block;
+    text-align: center;
+  }
+  
+  .profile-desc {
+    width: 95vw;
+  }
+  
+  .profile-image {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 0 auto 1.5em;
+  }
+  
+  .profile-name {
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-size: 1.75em;
+    margin-bottom: 1em;
+  }
 }
 .profile-pic {
   max-height: 300px;
@@ -89,4 +85,20 @@
   transform: scale(1.02);
   box-shadow: 0 8px 24px var(--shadow-color);
   filter: grayscale(100%) sepia(80%) hue-rotate(330deg) saturate(80%) brightness(1.05) contrast(0.9);
+}
+
+/* Mobile: smaller profile image */
+@media (max-width: $tablet-width) {
+  .profile-pic {
+    max-height: 200px;
+    max-width: 200px;
+  }
+}
+
+/* Very small phones: even smaller */
+@media (max-width: $phone-width) {
+  .profile-pic {
+    max-height: 150px;
+    max-width: 150px;
+  }
 }
