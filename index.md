@@ -19,3 +19,5 @@ I'm also a member of the organizing team for the [School of Ideas in Neuroscienc
 Previously I've worked on a project aiming at [modeling (egocentric) space perception & representation](./projects/space), supervised by [Paweł Gładziejewski](https://scholar.google.com/citations?user=Ql2ajksAAAAJ&hl=pl){:target="_blank"}, PhD (Nicolas Copernicus University) and financed by Polish Ministry of Education and Science.
 
 In case of any questions don't hesitate to [shoot me an e-mail <i class="fa fa-envelope"></i>](mailto:w.rorot@uw.edu.pl) or check out my social profiles linked in the footer, where you can find updates of my projects.
+
+Profile picture by Dasha Pruss.
