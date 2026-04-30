@@ -4,7 +4,7 @@ title: Wiktor Rorot
 image: profile-pic.jpg
 ---
 
-I'm a PhD student at the Interdisciplinary Doctoral School, University of Warsaw. 
+I'm a PhD candidate at the Interdisciplinary Doctoral School, University of Warsaw. 
 
 I work primarily at the intersection of philosophy of cognitive science and philosophy of biology, using methods of digital humanities and natural language processing to study concept use in scientific articles.
 
