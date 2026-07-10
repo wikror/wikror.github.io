@@ -23,7 +23,7 @@ pagination:
     sort_reverse: true
     enabled: true
     per_page: 5
-    permalink: "/blog/page/:num/"
+    permalink: "/page/:num/"
 
 # Build settings
 markdown:            kramdown
