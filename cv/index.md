@@ -155,7 +155,7 @@ Didactic Council for Cognitive Science Programmes, University of Warsaw | 2023�
 
 ## Professional Memberships
 
-- Centre for Philosophical Research (Member of the Board 2021–2024, Supervision Committee 2024–2027)
-- Cognitive Science Society
-- British Society for Philosophy of Science
-- International Society for the History, Philosophy, and Social Studies of Biology
+Centre for Philosophical Research (Member of the Board 2021–2024, Supervision Committee 2024–2027)
+Cognitive Science Society
+British Society for Philosophy of Science
+International Society for the History, Philosophy, and Social Studies of Biology
