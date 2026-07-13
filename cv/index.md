@@ -29,20 +29,26 @@ General Philosophy of Science, History of Cognitive Science, Philosophy of Mind,
 
 ## Education
 
-**PhD Student, Philosophy and Psychology**  
-Interdisciplinary Doctoral School, University of Warsaw  
-2020–present (expected graduation: 2025)
+**PhD, Philosophy**  
+2020-2026, University of Warsaw
+  * Dissertation titled: "Scale-Free Communication? An investigation of the use of the concept 'communication' in biology and cognitive sciences"
+  * Supervised by prof. Marcin Miłkowski and prof. Joanna Rączaszek-Leonardi
+  * External reviewers: prof. Arkadiusz Gut (Nicolaus Copernicus University), prof. Charles Pence (Universite catholique de Louvain) and prof. Federica Russo (Utrecht University)
 
 **M.Sc., Cognitive Science**  
-University of Warsaw, 2018–2020 (graduated 2023)
+2018–2020, University of Warsaw (graduated 2023)
 
 **B.A., Philosophy**  
-University of Warsaw, 2014–2018 (graduated with honours)
+2014–2018, University of Warsaw (graduated with honours)
 
 **B.A., Cognitive Science**  
-University of Warsaw, 2014–2017 (graduated with honours)
+2014–2017, University of Warsaw (graduated with honours)
 
 ## Academic Appointments
+
+**Research assistant**
+Faculty of Psychology, University of Warsaw
+2025-2026
 
 **Assistant (Asystent)**  
 Institute of Philosophy and Sociology, Polish Academy of Sciences  
@@ -74,6 +80,9 @@ Foundation for Polish Science | 2024
 
 ## Research Visits
 
+**Columbia University**, USA
+Visiting Researcher | Apr-May 2026
+
 **Konrad Lorenz Institute for Evolution and Cognition Research**, Austria  
 Writing-Up Fellow | Oct 2024–Mar 2025
 
@@ -103,7 +112,20 @@ Fellow | Jul 2019, Jun–Jul 2021
 **Research Project Supervision**  
 Bachelor's and Master's students, Cognitive Science program, University of Warsaw | 2023–2024
 
-## Selected Conference Presentations (Refereed)
+## Selected Conference Presentations
+
+### Invited
+
+**Information transfer and content in the brain**
+Center for Theoretical Neuroscience, Columbia University, New York, USA | Apr 2026
+
+### Refereed
+
+**Conceptual diversity of linguistic structure: a mixed-methods corpus study**
+Annual Meeting of the Cognitive Science Society, Rio de Janeiro, Brazil & online | Jul 2026
+
+**Scale-Free Communication? What is ‘communication’ in life and cognitive sciences**
+International Society for the History, Philosophy, and Social Studies of Biology, Porto, Portugal | Jul 2025
 
 **"Looking for keys to the brain: Keying-up in neuroscience"**  
 5th International Conference of the German Society for Philosophy of Science, Erlangen, Germany | Mar 2025
@@ -137,12 +159,3 @@ Didactic Council for Cognitive Science Programmes, University of Warsaw | 2023�
 - Cognitive Science Society
 - British Society for Philosophy of Science
 - International Society for the History, Philosophy, and Social Studies of Biology
-- Italian Association for Cognitive Science
-
-## Skills
-
-**Programming:** Python (numpy, scipy, pytorch, pandas, matplotlib, nltk, spaCy, gensim), Bash, LaTeX; R, Matlab, HTML/CSS
-
-**Data Analysis:** Machine learning, natural language processing, neural networks, statistical analysis
-
-**Languages:** Polish (native), English (proficient), French (advanced, DELF B2), German (communicative, A2)
