@@ -46,7 +46,7 @@ General Philosophy of Science, History of Cognitive Science, Philosophy of Mind,
 
 ## Academic Appointments
 
-**Research assistant**
+**Research assistant**  
 Faculty of Psychology, University of Warsaw
 2025-2026
 
@@ -80,7 +80,7 @@ Foundation for Polish Science | 2024
 
 ## Research Visits
 
-**Columbia University**, USA
+**Columbia University**, USA  
 Visiting Researcher | Apr-May 2026
 
 **Konrad Lorenz Institute for Evolution and Cognition Research**, Austria  
@@ -116,15 +116,15 @@ Bachelor's and Master's students, Cognitive Science program, University of Warsa
 
 ### Invited
 
-**Information transfer and content in the brain**
+**Information transfer and content in the brain**  
 Center for Theoretical Neuroscience, Columbia University, New York, USA | Apr 2026
 
 ### Refereed
 
-**Conceptual diversity of linguistic structure: a mixed-methods corpus study**
+**Conceptual diversity of linguistic structure: a mixed-methods corpus study**  
 Annual Meeting of the Cognitive Science Society, Rio de Janeiro, Brazil & online | Jul 2026
 
-**Scale-Free Communication? What is ‘communication’ in life and cognitive sciences**
+**Scale-Free Communication? What is ‘communication’ in life and cognitive sciences**  
 International Society for the History, Philosophy, and Social Studies of Biology, Porto, Portugal | Jul 2025
 
 **"Looking for keys to the brain: Keying-up in neuroscience"**  
