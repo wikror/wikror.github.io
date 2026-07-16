@@ -119,6 +119,9 @@ Bachelor's and Master's students, Cognitive Science program, University of Warsa
 **Information transfer and content in the brain**  
 Center for Theoretical Neuroscience, Columbia University, New York, USA | Apr 2026
 
+**Scale-Free Communication? What is ‘communication’ in life and cognitive sciences**  
+Department of Philosophy of Natural Sciences, Jagiellonian University, Kraków, Poland | May 2025
+
 ### Refereed
 
 **Conceptual diversity of linguistic structure: a mixed-methods corpus study**  
