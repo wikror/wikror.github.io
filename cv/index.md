@@ -107,7 +107,7 @@ Fellow | Jul 2019, Jun–Jul 2021
 1st year undergraduate, Cognitive Science program, University of Warsaw | 2022–2026
 
 **Information Theory for Cognitive Sciences** (tutorial)  
-Cognitive Science Master' program, University of Warsaw | 2026
+Cognitive Science Master' program, University of Warsaw | 2025
 
 **Master's Thesis Supervision**  
 Cognitive Science program, University of Warsaw | 2026-2027
