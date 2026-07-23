@@ -1,0 +1,31 @@
+{% comment %}
+  Captioned iframe embed for a standalone interactive HTML visualization.
+
+  Parameters:
+    src     – path to the HTML file, relative to the site root (required)
+    caption – figure caption, may contain inline HTML (required)
+    height  – iframe height, any CSS length (optional, default 750px)
+    wide    – "true" to let the figure break out of the 800px text column (optional)
+    title   – iframe accessible name (optional, defaults to the caption)
+
+  Usage:
+    {% include figure-embed.html
+       src="/assets/vis/2026/07/example.html"
+       height="800px"
+       wide="true"
+       caption="What the reader is looking at." %}
+{% endcomment %}
+
+<figure class="figure-embed{% if include.wide == "true" %} figure-embed--wide{% endif %}">
+  <div class="figure-embed__frame" style="height: {{ include.height | default: '750px' }};">
+    <iframe src="{{ include.src | relative_url }}"
+            title="{{ include.title | default: include.caption | strip_html | truncate: 120 }}"
+            loading="lazy"
+            scrolling="no"
+            allowfullscreen></iframe>
+  </div>
+  <figcaption>
+    {{ include.caption }}
+    <a class="figure-embed__link" href="{{ include.src | relative_url }}" target="_blank" rel="noopener">Open full screen ↗</a>
+  </figcaption>
+</figure>

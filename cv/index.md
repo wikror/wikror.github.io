@@ -104,7 +104,16 @@ Fellow | Jul 2019, Jun–Jul 2021
 ## Teaching
 
 **Experimental Psychology** (tutorial)  
-1st year undergraduate, Cognitive Science program, University of Warsaw | 2022–2024
+1st year undergraduate, Cognitive Science program, University of Warsaw | 2022–2026
+
+**Information Theory for Cognitive Sciences** (tutorial)  
+Cognitive Science Master' program, University of Warsaw | 2026
+
+**Master's Thesis Supervision**  
+Cognitive Science program, University of Warsaw | 2026-2027
+
+**Learning, Adaptation, and Uncertainty: Machine Learning for Cognitive Modeling** (lectures and tutorials)  
+1st year Master's, Cognitive Science program, University of Warsaw | 2026
 
 **Cognitive Processes Modeling I & II** (lectures and tutorials)  
 1st year Master's, Cognitive Science program, University of Warsaw | 2022–2024
@@ -149,6 +158,9 @@ International Society for the History, Philosophy, and Social Studies of Biology
 
 **Co-organizer and Coordinator**  
 Summer School "School of Ideas in Neuroscience", Nencki Institute & University of Warsaw | 2022–2025
+
+**Local co-organizer**  
+European Society for Philosophy and Psychology Conference, Institute of Philosophy and Sociology, Polish Academy of Sciences | Sep 2025
 
 **PhD Student Representative**  
 Didactic Council for Cognitive Science Programmes, University of Warsaw | 2023–2024

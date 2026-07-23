@@ -1,0 +1,62 @@
+/*
+  Captioned embeds for standalone interactive visualizations (see
+  _includes/figure-embed.html). The iframe sandboxes the visualization's own
+  <html>/<head>/<body> and its Plotly styles, so the post layout is untouched.
+*/
+
+.figure-embed {
+  margin: 2.5em 0;
+  padding: 0;
+}
+
+/*
+  Interactive plots need more room than the 800px prose column, so allow the
+  figure to break out of it while staying centred and never wider than the
+  viewport (which would introduce horizontal page scroll).
+*/
+.figure-embed--wide {
+  width: min(1200px, 92vw);
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.figure-embed__frame {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background-color: var(--bg-color);
+}
+
+.figure-embed__frame iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.figure-embed figcaption {
+  margin-top: 0.75em;
+  font-family: $base-font-family;
+  font-size: 0.85em;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  text-align: left;
+}
+
+.figure-embed__link {
+  white-space: nowrap;
+}
+
+@media (max-width: $tablet-width) {
+  .figure-embed--wide {
+    width: 95vw;
+  }
+
+  /* Fixed pixel heights get uncomfortably tall on a phone screen. */
+  .figure-embed__frame {
+    height: 70vh !important;
+    min-height: 320px;
+  }
+}
