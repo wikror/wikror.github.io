@@ -48,15 +48,15 @@ General Philosophy of Science, History of Cognitive Science, Philosophy of Mind,
 
 **Research assistant**  
 Faculty of Psychology, University of Warsaw
-2025-2026
+Dec 2025 - Sep 2026
 
 **Assistant (Asystent)**  
 Institute of Philosophy and Sociology, Polish Academy of Sciences  
-2023–2026
+Feb 2023 – Jul 2026
 
 **Writing-Up Fellow**  
 Konrad Lorenz Institute for Evolution and Cognition Research, Austria  
-2024–2025
+Oct 2024 – Mar 2025
 
 **Researcher**  
 University of Warsaw  
