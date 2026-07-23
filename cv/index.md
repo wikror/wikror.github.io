@@ -30,7 +30,7 @@ General Philosophy of Science, History of Cognitive Science, Philosophy of Mind,
 ## Education
 
 **PhD, Philosophy**  
-2020-2026, University of Warsaw
+2020-2026, Interdisciplinary Doctoral School, University of Warsaw
   * Dissertation titled: "Scale-Free Communication? An investigation of the use of the concept 'communication' in biology and cognitive sciences"
   * Supervised by prof. Marcin Miłkowski and prof. Joanna Rączaszek-Leonardi
   * External reviewers: prof. Arkadiusz Gut (Nicolaus Copernicus University), prof. Charles Pence (Universite catholique de Louvain) and prof. Federica Russo (Utrecht University)
