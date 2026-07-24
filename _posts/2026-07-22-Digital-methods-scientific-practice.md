@@ -8,7 +8,7 @@ date: 2026-07-22
 
 June 2026 edition of the Society for the Philosophy of Science in Practice Newsletter included my piece on the promises and limitations of digital methodology in the study of scientific practice. It is available here: [SPSP June 2026 Newsletter](https://sway.cloud.microsoft/WzkbQNheb1JEcDm6) 
 
-I was invited Elis Jones, who guest edited the newsletter---many thanks for the amazing editorial work!
+I was invited by Elis Jones, who guest edited the newsletter---many thanks for the amazing editorial work!
 
 Below is the reprinted paper, with interactive visualizations:
 
