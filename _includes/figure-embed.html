@@ -8,12 +8,18 @@
     wide    – "true" to let the figure break out of the 800px text column (optional)
     title   – iframe accessible name (optional, defaults to the caption)
 
-  Usage:
+  Usage: capture the caption into a variable first, then pass the variable
+  (unquoted). This is the robust pattern — because the caption is not a
+  double-quoted include parameter, it may contain any quote characters
+  (straight " or curly “ ”) without breaking Liquid's include-tag parser.
+
+    {% capture example_caption %}What the reader is looking at, including
+    "quoted" terms.{% endcapture %}
     {% include figure-embed.html
        src="/assets/vis/2026/07/example.html"
        height="800px"
        wide="true"
-       caption="What the reader is looking at." %}
+       caption=example_caption %}
 {% endcomment %}
 
 <figure class="figure-embed{% if include.wide == "true" %} figure-embed--wide{% endif %}">

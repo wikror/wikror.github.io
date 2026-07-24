@@ -78,13 +78,12 @@ to the "topic" which the model determined–picking out the specific research co
 which the central concept is employed, and allowing us to explore how its different uses
 relate to one another.
 
+{% capture fig1_caption %}A 2D UMAP visualization of vector embeddings of paragraphs discussing biological communication, clustered by the "topic" assigned by a BERTopic model. The visualization comes from my PhD dissertation, “Scale-Free Communication?...” Hover over a point to read the truncated paragraph; click a topic in the legend to show or hide it, and drag to zoom.{% endcapture %}
 {% include figure-embed.html
    src="/assets/vis/2026/07/vis_documents-results-communication-def-separate-incl-nodups-50.html"
    height="780px"
    wide="true"
-   caption="A 2D UMAP visualization of vector embeddings of paragraphs discussing biological communication, clustered by the
-"topic" assigned by a BERTopic model.  The visualization comes from my PhD
-dissertation, “Scale-Free Communication?...” Hover over a point to read the truncated paragraph; click a topic in the legend to show or hide it, and drag to zoom." %}
+   caption=fig1_caption %}
 
 There are a few reasons this might all sound familiar: topic modelling is closely related
 to a broader family of methods inspired by a view called "distributional semantics". This
@@ -109,11 +108,12 @@ search methods to uncover individual sentences and paragraphs which refer to the
 notion of "biological communication". Such samples can then be used for conceptual
 analysis, mitigating some of the risks associated with traditional case study use.
 
+{% capture fig2_caption %}This image shows how vector representations calculated with LLMs can be used to construct a corpus of papers within the field of “language emergence”, based on a manually selected sample of prototypical “seed” papers. Here, we can cluster papers into a “field” despite a lack of things like specific journals or clear keywords for that discipline. The visualization (a 3D UMAP visualization of vector embeddings of full-text papers) comes from a study that will be presented at the Annual Meeting of the Cognitive Science Society 2026, preprint available at: https://doi.org/10.31234/osf.io/xjhya_v1. Drag to rotate, scroll to zoom, and use the legend to isolate a single group.{% endcapture %}
 {% include figure-embed.html
    src="/assets/vis/2026/07/corpus_comparison_3d_umap.html"
    height="900px"
    wide="true"
-   caption="This image shows how vector representations calculated with LLMs can be used to construct a corpus of papers within the field of “language emergence”, based on a manually selected sample of prototypical “seed” papers. Here, we can cluster papers into a “field” despite a lack of things like specific journals or clear keywords for that discipline. The visualization (a 3D UMAP visualization of vector embeddings of full-text papers) comes from a study that will be presented at the Annual Meeting of the Cognitive Science Society 2026, preprint available at:  https://doi.org/10.31234/osf.io/xjhya_v1. Drag to rotate, scroll to zoom, and use the legend to isolate a single group." %}
+   caption=fig2_caption %}
 
 But digital methods are not a panacea: they enhance our abilities to study scientific
 literature, but there are good reasons to worry about this focus on textual outputs of
