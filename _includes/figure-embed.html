@@ -25,7 +25,7 @@
 <figure class="figure-embed{% if include.wide == "true" %} figure-embed--wide{% endif %}">
   <div class="figure-embed__frame" style="height: {{ include.height | default: '750px' }};">
     <iframe src="{{ include.src | relative_url }}"
-            title="{{ include.title | default: include.caption | strip_html | truncate: 120 }}"
+            title="{{ include.title | default: include.caption | strip_html | truncate: 120 | escape }}"
             loading="lazy"
             scrolling="no"
             allowfullscreen></iframe>
