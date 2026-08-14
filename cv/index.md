@@ -168,6 +168,9 @@ Didactic Council for Cognitive Science Programmes, University of Warsaw | 2023�
 **Co-organizer**  
 5th International Conference on Interactivity, Language & Cognition, University of Warsaw | Sep 2021
 
+**Reviewer for:**
+Cognitive Neuroscience, European Journal for Philosophy of Science, Filozofia Nauki, History and Philosophy of Life Sciences, Journal for General Philosophy of Science, Minds and Machines, Neuroscience of Consciousness, Philosophy and Mind Sciences, Studia Semiotyczne, Synthese, Theoria, Topoi, Zagadnienia Filozoficzne w Nauce.
+
 ## Professional Memberships
 
 Centre for Philosophical Research (Member of the Board 2021–2024, Supervision Committee 2024–2027)
