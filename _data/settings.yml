@@ -21,6 +21,7 @@ menu:
 main-projects:
   - {name: 'Scale-Free Communication?', url: 'projects/communication.html', blurb: 'A large-scale corpus study of the use of the concept "communication" across life and cognitive sciences.'}
   - {name: 'Mind and Matter', url: 'projects/mind-matter.html', blurb: 'A philosophical investigation of the active biological matter that makes up all (known) cognitive systems.'}
+  - {name: 'Individuality and Causal Detachment', url: 'projects/individuality.html', blurb: 'Understanding individuality at the intersection of biology and cognitive sciences.'}
 
 future-projects:
   # - {name: 'Individuality in Biology and Cognitive Sciences', url: 'projects/individuality.html'}

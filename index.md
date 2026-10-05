@@ -4,7 +4,9 @@ title: Wiktor Rorot
 image: profile-pic.jpg
 ---
 
-I work primarily at the intersection of philosophy of cognitive science and philosophy of biology, using methods of digital humanities and natural language processing to study concept use in scientific articles. I have recently been awarded a PhD in Philosophy from the University of Warsaw, and I am currently transitioning to a post-doctoral position (hopefully).
+I work primarily at the intersection of philosophy of cognitive science and philosophy of biology, using methods of digital humanities and natural language processing to study concept use in scientific articles. 
+
+I have recently been awarded a PhD in Philosophy from the University of Warsaw, and in October 2026 I started a Post-Doctoral fellowship in the [Biological Perspectivism and Individualisation (BIOPI)](./projects/individuality) project, led by prof. Adrian Stencel, at the Institute of Philosophy, Jagiellonian University.
 
 My doctoral work was concerned with the widespread use of the term ["communication" in life sciences](./projects/communication). I analyzed a corpus of over 1.1 million articles across biology and cognitive science to highlight recurring conceptual patterns. This work was partially funded by the Preludium grant from National Science Center. 
 
