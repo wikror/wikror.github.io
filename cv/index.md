@@ -51,7 +51,7 @@ Institute of Philosophy, Jagiellonian University
 Oct 2026-Sep 2027
 
 **Research assistant**  
-Faculty of Psychology, University of Warsaw
+Faculty of Psychology, University of Warsaw  
 Dec 2025 - Sep 2026
 
 **Assistant (Asystent)**  
