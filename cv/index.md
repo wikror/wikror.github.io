@@ -46,6 +46,10 @@ General Philosophy of Science, History of Cognitive Science, Philosophy of Mind,
 
 ## Academic Appointments
 
+**Postdoctoral Researcher**  
+Institute of Philosophy, Jagiellonian University  
+Oct 2026-Sep 2027
+
 **Research assistant**  
 Faculty of Psychology, University of Warsaw
 Dec 2025 - Sep 2026
@@ -107,7 +111,7 @@ Fellow | Jul 2019, Jun–Jul 2021
 1st year undergraduate, Cognitive Science program, University of Warsaw | 2022–2026
 
 **Information Theory for Cognitive Sciences** (tutorial)  
-Cognitive Science Master' program, University of Warsaw | 2
+Cognitive Science Master's program, University of Warsaw | 2025-2026
 
 **Master's Thesis Supervision**  
 Cognitive Science program, University of Warsaw | 2026-2027
