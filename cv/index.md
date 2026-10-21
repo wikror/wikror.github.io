@@ -7,7 +7,8 @@ layout: page
   <div class="cv-header">
     <div class="cv-contact">
       <strong>Wiktor Rorot</strong><br>
-      Jagiellonian University<br>
+      Postdoctoral Researcher, Institute of Philosophy, Jagiellonian University<br>
+      Associate Member, Human Interactivity and Language Lab, University of Warsaw<br>
       <a href="mailto:wiktor.rorot.research@gmail.com">wiktor.rorot.research@gmail.com</a><br>
       ORCID: <a href="https://orcid.org/0000-0003-1867-1091" target="_blank" rel="noopener">0000-0003-1867-1091</a>
     </div>
